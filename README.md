@@ -5,7 +5,7 @@ I have pursued my Bachelor's and Master's degrees in Applied Statistics and Econ
 
 I am thoroughly captivated by the power that statistics has in helping solve business problems with unprecedented accuracy! I look forward to developing my acumen further in data science by deep-diving into mathematics, story-telling and coding.
 
-Currently, I am working as a data analyst in the Supply Chain Analytics division of Novonesis - a Danish biotech giant. I am new to Supply Chain and so every day is packed with lots of 'TIL' moments for me. 
+Currently, I am working as a data analyst in the Supply Chain Analytics division of Novonesis - a Danish biotech giant. I am new to this domain and so every project that I handle is packed with lots of 'TIL' moments for me. 
 
 My GitHub profile has been created to showcase projects that I have built/am building to develop myself as a data analyst/scientist. This platform will continue to host projects with the same intention. 
 
