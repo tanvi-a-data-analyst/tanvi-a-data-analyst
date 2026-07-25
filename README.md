@@ -1,16 +1,37 @@
-**Hey!** 👋🏼😁
-I am a young data analyst (~4 yrs into this) interested in Statistics, Predictive Analytics and Data Visualization practices. 
+# Hi, I'm Tanvi 👋
 
-I have pursued my Bachelor's and Master's degrees in Applied Statistics and Economics after which I have been working in the analytics and BI domain for quite some years now. 
+Data Analyst who is slightly tired of dashboards breaking silently — so I started building the data systems that catch it before stakeholders do.
 
-I am thoroughly captivated by the power that statistics has in helping solve business problems with unprecedented accuracy! I look forward to developing my acumen further in data science by deep-diving into mathematics, story-telling and coding.
+**Currently:** Supply Chain Analytics @ [Novonesis](https://www.novonesis.com/) (Bengaluru) — living inside Power BI, KNIME, Python, and lately Azure OpenAI.
 
-Currently, I am working as a data analyst in the Supply Chain Analytics division of Novonesis - a Danish biotech giant. I am new to this domain and so every project that I handle is packed with lots of 'TIL' moments for me. 
+---
 
-My GitHub profile has been created to showcase projects that I have built/am building to develop myself as a data analyst/scientist. You may see a lot of 'scope for improvement' areas in my projects here but that's alright because I am committing myself to this career 🎈
+## What I actually do
 
-I sometimes dabble in writing and hosting articles on https://medium.com/divekartanvi999. 
+I sit at the boundary between "make a dashboard" and "make sure the dashboard didn't lie to you." That means:
 
-You can also check my LinkedIn profile here: https://www.linkedin.com/in/tanvi-divekar/.
+- **BI infrastructure, not just BI** — a Python-based monitoring system tracking refresh health and structural errors across 80+ Power BI reports daily, cutting detection time from days to under 24 hours.
+- **Automating the boring, expensive stuff** — KNIME → Snowflake pipelines that cut 40% of manual data cleanup effort.
+- **GenAI where it's actually useful, not where it's trendy** — currently building a tool that uses Azure OpenAI to auto-document KNIME workflows for technical and non-technical stakeholders, because tribal knowledge shouldn't live in one person's head.
+- **Stats-first thinking** — MSc Economics + BSc Applied Statistics means I default to "does this number hold up" before "does this chart look nice."
 
-It was nice to e-meet you! Hope you have a nice day 😊🙌🏼
+## Tech I work in
+
+`Power BI (DAX, Power Query, dataflows, RLS)` · `Python (Pandas, NumPy, Streamlit, pdfplumber)` · `SQL` · `KNIME` · `Snowflake` · `R` · `Azure OpenAI`
+
+## Featured projects
+
+| Project | What it does |
+|---|---|
+| [Power BI Report Health Monitor](#) | Two-phase monitoring system across 80+ reports — REST API for refresh tracking, Export API + pdfplumber for structural error detection nobody else catches. |
+| [KNIME Workflow Doc Generator](#) *(in progress)* | Parses exported KNIME JSON, uses Azure OpenAI to auto-generate stakeholder-ready workflow documentation. |
+| [Customer Behaviour Analytics](#) | LASSO regression vs. logistic classification on the same dataset — feature selection and classification approaches compared head-to-head. |
+
+*(→ swap the `#` for actual repo links once each project has its own repo — see notes below)*
+
+## Elsewhere
+
+- Sometime I write: [medium.com/@divekartanvi999](https://medium.com/@divekartanvi999)
+- Working in corporate all the time: [LinkedIn](https://www.linkedin.com/in/tanvi-divekar/)
+
+Open to conversations about supply chain analytics, BI monitoring/observability, or KNIME (not after working hours, though 😄).
