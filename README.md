@@ -2,7 +2,7 @@
 
 Data Analyst who is slightly tired of dashboards breaking silently — so I started building the data systems that catch it before stakeholders do.
 
-**Currently:** Supply Chain Analytics @ [Novonesis](https://www.novonesis.com/) (Bengaluru) — living inside Power BI, KNIME, Python, and lately Azure OpenAI.
+**Currently:** Supply Chain Analytics @ [Novonesis](https://www.novonesis.com/) (Bengaluru) — living inside Power BI, KNIME, Snowflake. Soemtimes Python, and lately Azure OpenAI too.
 
 ---
 
