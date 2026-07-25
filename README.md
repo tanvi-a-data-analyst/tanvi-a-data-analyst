@@ -23,9 +23,9 @@ I sit at the boundary between "make a dashboard" and "make sure the dashboard di
 
 | Project | What it does |
 |---|---|
-| [Power BI Report Health Monitor] | Two-phase monitoring system across 80+ reports — REST API for refresh tracking, Export API + pdfplumber for structural error detection nobody else catches. |
-| [KNIME Workflow Doc Generator] *(in progress)* | Parses exported KNIME JSON, uses Azure OpenAI to auto-generate stakeholder-ready workflow documentation. |
-| [Customer Behaviour Analytics] | LASSO regression vs. logistic classification on the same dataset — feature selection and classification approaches compared head-to-head. |
+| Power BI Report Health Monitor | Two-phase monitoring system across 80+ reports — REST API for refresh tracking, Export API + pdfplumber for structural error detection nobody else catches. |
+| KNIME Workflow Doc Generator *(in progress)* | Parses exported KNIME JSON, uses Azure OpenAI to auto-generate stakeholder-ready workflow documentation. |
+| Customer Behaviour Analytics | A college project that introduced me to: LASSO regression vs. logistic classification on the same dataset — feature selection and classification approaches compared head-to-head. |
 
 ## Elsewhere
 
