@@ -27,9 +27,5 @@ I sit at the boundary between "make a dashboard" and "make sure the dashboard di
 | KNIME Workflow Doc Generator *(in progress)* | Parses exported KNIME JSON, uses Azure OpenAI to auto-generate stakeholder-ready workflow documentation. |
 | Customer Behaviour Analytics | A college project that introduced me to: LASSO regression vs. logistic classification on the same dataset — feature selection and classification approaches compared head-to-head. |
 
-## Elsewhere
-
-- Sometime I write: [medium.com/@divekartanvi999](https://medium.com/@divekartanvi999)
 - Working in corporate all the time: [LinkedIn](https://www.linkedin.com/in/tanvi-divekar/)
-
 Open to conversations about supply chain analytics, BI monitoring/observability, or KNIME (not after working hours, though 😄).
