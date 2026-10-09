@@ -21,7 +21,8 @@ I sit at the boundary between "make a dashboard" and "make sure the dashboard di
 | Project | What it does |
 |---|---|
 | Power BI Report Health Monitor | Two-phase monitoring system across 80+ reports - REST API for refresh tracking, Export API + pdfplumber for structural error detection nobody else catches. |
-| Online Article Sharing Behaviour Analytics | A college project that introduced me to LASSO regression vs logistic classification on the same dataset, comparing feature selection and classification approaches head-to-head. | Explore my Zomato Order history | A personal project to understand the pattern of my orders and spending history through Zomato.|
+| Online Article Sharing Behaviour Analytics | A college project that introduced me to LASSO regression vs logistic classification on the same dataset, comparing feature selection and classification approaches head-to-head.| 
+| Explore my Zomato Order history | A personal project to understand the pattern of my orders and spending history through Zomato. |
 
 - Working in corporate all the time: [LinkedIn](https://www.linkedin.com/in/tanvi-divekar/)
 Open to conversations about supply chain analytics, BI monitoring/observability, or KNIME (not after working hours, though 😄).
