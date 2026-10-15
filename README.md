@@ -2,7 +2,7 @@
 
 A data Analyst who panics (a tad bit) when dashboards break without prior information, so I started building the data systems that catch it before stakeholders do.
 
-**Currently:** I work in Supply Chain Analytics at [Novonesis](https://www.novonesis.com/) (Bengaluru) - living inside Power BI, KNIME, Snowflake. Sometimes Python, and lately OpenAI too.
+I used to work in Supply Chain Analytics at [Novonesis](https://www.novonesis.com/) (Bengaluru) - living inside Power BI, KNIME, Snowflake. Sometimes Python, OpenAI too. Lately, I have been on the lookout for better-fitting roles in data analytics, data science and business intelligence.
 
 ---
 
@@ -22,7 +22,7 @@ I sit at the boundary between "make a dashboard" and "make sure the dashboard di
 |---|---|
 | Power BI Report Health Monitor | Two-phase monitoring system across 80+ reports - REST API for refresh tracking, Export API + pdfplumber for structural error detection nobody else catches. |
 | Online Article Sharing Behaviour Analytics | A college project that introduced me to LASSO regression vs logistic classification on the same dataset, comparing feature selection and classification approaches head-to-head.| 
-| Explore my Zomato Order history | A personal project to understand the pattern of my orders and spending history through Zomato. |
+| Hypothesis Testing | Test whether SMS repayment reminders that name the borrower’s loan officer increase on-time repayment compared with a generic reminder.|
 
 - Working in corporate all the time: [LinkedIn](https://www.linkedin.com/in/tanvi-divekar/)
-Open to conversations about supply chain analytics, BI monitoring/observability, or KNIME (not after working hours, though 😄).
+Open to conversations about data analytics, data science, BI monitoring/observability, or KNIME (not after working hours, though 😄).
