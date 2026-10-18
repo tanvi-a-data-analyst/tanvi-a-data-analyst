@@ -22,7 +22,7 @@ I sit at the boundary between "make a dashboard" and "make sure the dashboard di
 |---|---|
 | Power BI Report Health Monitor | Two-phase monitoring system across 80+ reports - REST API for refresh tracking, Export API + pdfplumber for structural error detection nobody else catches. |
 | Online Article Sharing Behaviour Analytics | A college project that introduced me to LASSO regression vs logistic classification on the same dataset, comparing feature selection and classification approaches head-to-head.| 
-| Hypothesis Testing **(In progress)** | Test whether SMS repayment reminders that name the borrower’s loan officer increase on-time repayment compared with a generic reminder.|
+| Hypothesis Testing **(In progress)** | Testing which booking-time characteristics are associated with cancellations across ~119k hotel bookings, and digging into why "non-refundable" bookings cancel the most.|
 
 - Working in corporate all the time: [LinkedIn](https://www.linkedin.com/in/tanvi-divekar/)
 Open to conversations about data analytics, data science, BI monitoring/observability, or KNIME (not after working hours, though 😄).
